@@ -10,7 +10,7 @@ This project analyses data collected from Kalshi.com (prediction market) to dete
 
 **Sources:** Kalshi.com 
 
-**Example Insights:**
+**Insights:**
 Most popular event by total market volume is "Who will Trump nominate as Fed Chair?" with	179,548,009 volume.
 Most popular market by market volume is "Will Trump next nominate Judy Shelton as Fed Chair?" with 86,352,472 volume.
 
